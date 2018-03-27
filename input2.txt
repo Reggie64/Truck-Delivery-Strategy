@@ -1,0 +1,20 @@
+#Simple graph route test linking all cities together 
+Unloading 100 Sydney
+Unloading 150 Oklahoma
+Unloading 50 LA
+Unloading 80 NY
+Unloading 140 LV
+Unloading 130 Houston
+Cost 140 Sydney Oklahoma
+Cost 75 Oklahoma LA
+Cost 140 LA LV
+Cost 205 Sydney LA
+Cost 320 Sydney LV
+Cost 80 Houston NY
+Cost 160 NY LV
+Job Sydney Oklahoma
+Job Houston NY
+Job LA LV
+Job LA Sydney
+Job Oklahoma LA
+
